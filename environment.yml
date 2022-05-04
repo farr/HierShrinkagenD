@@ -1,0 +1,16 @@
+name: HiershrinkagenD
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arviz
+  - python=3
+  - matplotlib
+  - jupyterlab
+  - numpy
+  - pymc=4
+  - scipy
+  - seaborn
+  - numpyro
+  - ipywidgets
+prefix: /Users/wfarr/miniconda3/envs/HiershrinkagenD
